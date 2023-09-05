@@ -1,0 +1,7 @@
+Substitute given words in the text into other random words.
+
+Text: %s
+
+Given words: %s
+
+Substituted text: 

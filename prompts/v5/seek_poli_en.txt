@@ -1,0 +1,7 @@
+Input: %s
+
+Polish: %s
+
+Input: %s
+
+Polish: 

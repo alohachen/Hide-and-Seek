@@ -1,0 +1,7 @@
+Recover given words in the text into original words.
+
+Text: %s
+
+Given words: %s
+
+Recovered text: 
