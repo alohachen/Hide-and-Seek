@@ -1,0 +1,1 @@
+https://huggingface.co/bigscience/bloomz-560m
